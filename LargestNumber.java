@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.io.*;
 
-class AssignmentThree {
+public class largestNumber {
     public static void main(String[] args) {
         int uno = 0, dos = 0, tres = 0;
     
